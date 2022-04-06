@@ -1,5 +1,2 @@
 # core-code-from-scratch-readme
-# Test
-## Test
-### Test
-*Test*
+<details><summary>First Week</summary>
