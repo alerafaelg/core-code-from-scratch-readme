@@ -41,3 +41,21 @@ goes through that source code producing a new file that contains the machine cod
   >**Java script is both, interpreted and compiled programming language at the same time, because it has characteristics of this two types, it's hybrid**
   
   <hr>
+
+  ### currency converter pseudocode
+  > a pseudocode is the way of describing the steps of an algorythm to solve a problem, without using a programming language itself
+  
+  ```
+  #### n1 = usd to convert
+  #### n2 = btc price
+  #### converted = usd to btc converted
+  
+  start
+  print introduce the amount in usd for converting to btc
+  n1 <--- get
+  print converting the amount in usd to btc
+  n2 <--- get (www.btcprice.com.ve)
+  converted <--- n1 * n2
+  print converted
+  end
+  ```    
