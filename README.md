@@ -66,7 +66,7 @@ goes through that source code producing a new file that contains the machine cod
 | ---- | ---- |
 | small distortion in programming concepts | depends on funcionts and objects |
 | more related to hardware | its easier to use |
-| no interpetrer needed | is architecture independent |
+| no interpreter needed | is architecture independent |
 | high efficiency | low efficiency because of the line to line |
 | very good for os | it's easy |
 | it's difficult | often used in web applications |
