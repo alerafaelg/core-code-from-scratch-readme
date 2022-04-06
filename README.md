@@ -57,8 +57,7 @@ goes through that source code producing a new file that contains the machine cod
   n2 <--- get (www.btcprice.com.ve)
   converted <--- n1 * n2
   print converted
-  end
+  end               
   ```    
- 
  ### high and low level languages
                  > it refers to the abstraction between **machine languages** and **programming languages**
