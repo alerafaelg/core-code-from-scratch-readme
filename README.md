@@ -59,5 +59,27 @@ goes through that source code producing a new file that contains the machine cod
   print converted
   end               
   ```    
- ### high and low level languages
+ ### low and high level languages
  > it refers to the abstraction between **machine languages** and **programming languages**
+
+  | low level language | high level language |
+| ---- | ---- |
+| small distortion in programming concepts | depends on funcionts and objects |
+| more related to hardware | its easier to use |
+| no interpetrer needed | is architecture independent |
+| high efficiency | low efficiency because of the line to line |
+| very good for os | it's easy |
+| it's difficult | often used in web applications |
+  </p>
+</details>     
+            
+<details><summary> wednesday april 6th </summary>
+<p>   
+
+:)
+            
+</p>
+</details>            
+
+</p>
+</details>
