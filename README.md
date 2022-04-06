@@ -33,5 +33,11 @@ goes through that source code producing a new file that contains the machine cod
   | pros | cons |
 | ----------- | ----------- |
 | ready to run | not cross-platform |
-| is faster | its not flexible |
+| it's faster | it's not flexible |
 | source code is private | takes extra step |
+  
+<hr>
+  
+  >**Java script is both, interpreted and compiled programming language at the same time, because it has characteristics of this two types, it's hybrid**
+  
+  <hr>
